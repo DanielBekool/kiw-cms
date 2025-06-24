@@ -17,7 +17,6 @@
     <x-partials.header />
     <main>
        
-<x-header-kiw/>
 <x-partials.hero-page image="media/bangunan-pabrik-hero.jpg" h1="Halaman Tidak Ditemukan"/>
 
 <section id="404-page" class="my-18 lg:my-30 mx-4 sm:mx-6 lg:mx-0 text-center flex flex-col items-center gap-5">
