@@ -281,6 +281,7 @@
 
    
     <div class="map-container relative overflow-x-auto whitespace-nowrap max-w-full">
+    <div class="relative inline-block min-w-full">
         <img src="{{ asset('storage/media/map-koneksi.png') }}">
         
         <!-- Hotspot Items -->
@@ -320,7 +321,7 @@
         />
 
     </div>
-
+    </div>
 </section>
 <!--End Koneksi Global-->
 
